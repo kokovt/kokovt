@@ -1,26 +1,14 @@
+# As of current, none of my software is intended to be used, downloaded, or released in any sort of way for the state of California.
+
+Due to the new law, and that I am a single college student, I cannot feasible follow the new california law. As such, my software is non intended to be used modified or downloaded in the state of California.
+
 # Hi, I'm Koko
 Also found as kokabiel.
 
-## About me
-Computer science student, currently working on learning C++ in my freetime, and a discord bot for VFree!
+Im working on redoing my online presence, and getting back into programming.
 
-I primarily program in Javascript / Typescript, but my more recent projects are going to move over to C++.
 
-## Current Project
--> Reprogramming my discord bot in C++.
-* This will help me learn C++.
+-- About me --
+I am currently in college for a associates in computer science. 
 
-## Planned projects
--> C++ Game engine / Library called Catu
-
--> C++ Minecraft clone (Using Catu when that is completed)
-
--> C++ Kernel called P64
-
- --------- Project Licensing ---------
-
-All of my projects are under the GNU General Public License v3.0
-
-#　こにちわ,わたしわここです！
-
-(This is the extent of japanese I know so far ngl :< )
+My main goal with my software is to make something that can help people throughout their lives, and make software which can give people enjoyment.
