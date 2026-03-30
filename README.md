@@ -9,6 +9,8 @@ Im working on redoing my online presence, and getting back into programming.
 
 
 -- About me --
-I am currently in college for a associates in computer science. 
+I am currently in college for an associates in computer science at UNM.
+
+Currently I am in JAVA I.
 
 My main goal with my software is to make something that can help people throughout their lives, and make software which can give people enjoyment.
