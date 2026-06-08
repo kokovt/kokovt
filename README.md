@@ -12,7 +12,6 @@ College CS student at UNM, getting back into programming.
 [![C](https://img.shields.io/badge/C-8e6bff?style=for-the-badge&logo=c&logoColor=white)](https://codeberg.org/shirodev)
 [![TS](https://img.shields.io/badge/TS-8e6bff?style=for-the-badge&logo=typescript&logoColor=white)](https://codeberg.org/shirodev)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-fe89d9?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://codeberg.org/shirodev/NSOS)
-[![College](https://img.shields.io/badge/UNM-14c8f9?style=for-the-badge)](https://www.unm.edu/)
 [![Codeberg](https://img.shields.io/badge/Codeberg-shirodev-fe89d9?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/shirodev)
 [![Github](https://img.shields.io/badge/github-kokovt-fe89d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kokovt)
 </div>
