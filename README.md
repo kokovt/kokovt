@@ -79,5 +79,6 @@ Website: [kokabiel.net](https://kokabiel.net)
 [![Website](https://img.shields.io/badge/Website-kokabiel.net-fe89d9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kokabiel.net)
 [![Twitter](https://img.shields.io/badge/Twitter-@__shirodev-14c8f9?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_shirodev)
 [![Codeberg](https://img.shields.io/badge/Codeberg-@shirodev-8e6bff?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/shirodev)
+[![discord](https://img.shields.io/badge/Discord-puppynuff-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/678788394519756800)
 
 </div>
