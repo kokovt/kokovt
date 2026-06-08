@@ -20,8 +20,6 @@ College CS student at UNM, getting back into programming.
 ---
 
 ## Featured Project — NSOS
-
-<table>
 <tr>
 <td width="100%">
 
@@ -46,7 +44,6 @@ Early WIP OS for Raspberry Pi boards. Framebuffer output, drawing primitives (ci
 
 </td>
 </tr>
-</table>
 
 ---
 
