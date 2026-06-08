@@ -51,22 +51,25 @@ Early WIP OS for Raspberry Pi boards. Framebuffer output, drawing primitives (ci
 
 <br>
 
-Also known as **kokabiel**.
+**Hello!**, I am **Shiro**.
 
-I am currently in college for an associates in computer science at [UNM](https://www.unm.edu/). Right now I am in JAVA I.
+I am a Student at the **University of New Mexico**, going for an Associates in Computer Science.
 
-My main goal with my software is to make something that can help people throughout their lives, and make software which can give people enjoyment.
+Currently, I am working on the JAVA I class, but in my freetime I like working on Discord Bots and Websites in Typescript, and a Custom Operating system in C. I also am really interested in Game Development and Developing a Game Engine, although I haven't worked on that as much.
 
-Website: [kokabiel.net](https://kokabiel.net)
+Outside of Programming and games, I like messing around with Circuitry (and games like turing complete), Drawing, Motorcycles, an researching Psychology and Mental Health adjacent things.
+
+Most of the software I am making currently has a heavy inspiration from NSO (Needy Streamer Overload).
+
 </details>
 
 <details>
     <summary><b>Artist credit</b></summary>
 
-### Thank you to [nec02k](https://x.com/nec02k) for the profile picture, and [Skytiger456](https://www.reddit.com/r/NeedyStreamerOverload/comments/1h90dvw/made_an_ame_discord_banner_for_myself_3/) for the banner!
+Thank you to [nec02k](https://x.com/nec02k) for the profile picture, and [Skytiger456](https://www.reddit.com/r/NeedyStreamerOverload/comments/1h90dvw/made_an_ame_discord_banner_for_myself_3/) for the banner!
 
-<img src="https://img.shields.io/badge/Twitter-@nec02k-14c8f9?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nec02k"></img>
-<img src="https://img.shields.io/badge/Reddit-Skytigers456-14c8f9?style=for-the-badge&logo=reddit&logoColor=white)](https://twitter.com/nec02k"></img>
+<img src="https://img.shields.io/badge/Twitter-@nec02k-14c8f9?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nec02k" height=20></img>
+<img src="https://img.shields.io/badge/Reddit-Skytigers456-14c8f9?style=for-the-badge&logo=reddit&logoColor=white)](https://twitter.com/nec02k" height=20></img>
 </details>
 
 ---
