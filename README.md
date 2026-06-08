@@ -8,12 +8,13 @@
 
 College CS student at UNM, getting back into programming.
 
+
 [![C](https://img.shields.io/badge/C-8e6bff?style=for-the-badge&logo=c&logoColor=white)](https://codeberg.org/shirodev)
+[![TS](https://img.shields.io/badge/TS-8e6bff?style=for-the-badge&logo=typescript&logoColor=white)](https://codeberg.org/shirodev)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-fe89d9?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://codeberg.org/shirodev/NSOS)
 [![College](https://img.shields.io/badge/UNM-14c8f9?style=for-the-badge)](https://www.unm.edu/)
 [![Codeberg](https://img.shields.io/badge/Codeberg-shirodev-fe89d9?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/shirodev)
 [![Github](https://img.shields.io/badge/github-kokovt-fe89d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kokovt)
-
 </div>
 
 ---
@@ -28,7 +29,7 @@ College CS student at UNM, getting back into programming.
 
 **Needy Streamer Overload-inspired hobby operating system**
 
-Early WIP OS for Raspberry Pi boards. Framebuffer output, drawing primitives (circles, rectangles, lines, pixels), UART, and custom fonts via bmpMaker. ARM32 and AARCH64 today — x86-64 via Limine planned.
+Early WIP OS for Raspberry Pi boards. Framebuffer output, drawing primitives (circles, rectangles, lines, pixels), UART, and custom fonts via bmpMaker. Supports ARM32 and AARCH64 RPI boards. x86-64 Limine support is planned.
 
 [![View on Codeberg](https://img.shields.io/badge/View_on-Codeberg-fe89d9?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/shirodev/NSOS)
 [![View on Codeberg](https://img.shields.io/badge/View_on-Github-fe89d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kokovt/NSOS)
@@ -61,20 +62,15 @@ I am currently in college for an associates in computer science at [UNM](https:/
 My main goal with my software is to make something that can help people throughout their lives, and make software which can give people enjoyment.
 
 Website: [kokabiel.net](https://kokabiel.net)
-
 </details>
 
 <details>
-<summary><b>California disclaimer</b></summary>
+    <summary><b>Artist credit</b></summary>
 
-<br>
+### Thank you to [nec02k](https://x.com/nec02k) for the profile picture, and [Skytiger456](https://www.reddit.com/r/NeedyStreamerOverload/comments/1h90dvw/made_an_ame_discord_banner_for_myself_3/) for the banner!
 
-As of current, none of my software is intended to be used, downloaded, or released in any sort of way for the state of California.
-
-Due to the new law, and that I am a single college student, I cannot feasibly follow the new California law. As such, my software is not intended to be used, modified, or downloaded in the state of California.
-
-All my future repos and updates to current repos will be mirrored on Codeberg.
-
+<img src="https://img.shields.io/badge/Twitter-@nec02k-14c8f9?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nec02k"></img>
+<img src="https://img.shields.io/badge/Reddit-Skytigers456-14c8f9?style=for-the-badge&logo=reddit&logoColor=white)](https://twitter.com/nec02k"></img>
 </details>
 
 ---
