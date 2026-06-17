@@ -6,6 +6,8 @@
 
 *Find a person to live for. Not to die for.*
 
+*As of current my github push graph is wrong. To check my commits from ~6/12/26 and onwards, check codeberg.*
+
 College CS student at UNM, getting back into programming.
 
 
@@ -15,7 +17,6 @@ College CS student at UNM, getting back into programming.
 [![Codeberg](https://img.shields.io/badge/Codeberg-shirodev-fe89d9?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/shirodev)
 [![Github](https://img.shields.io/badge/github-kokovt-fe89d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kokovt)
 </div>
-
 ---
 
 ## Featured Project — NSOS
