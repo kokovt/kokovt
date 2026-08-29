@@ -67,7 +67,7 @@ Most of the software I am making currently has a heavy inspiration from NSO (Nee
 <details>
     <summary><b>Artist credit</b></summary>
 
-Thank you to [Skytiger456](https://www.reddit.com/r/NeedyStreamerOverload/comments/1h90dvw/made_an_ame_discord_banner_for_myself_3/) for the banner!
+Thank you to [kitty_a1a](https://x.com/kitty_a1a/status/2088931608565039233) for the profile picture and [Skytiger456](https://www.reddit.com/r/NeedyStreamerOverload/comments/1h90dvw/made_an_ame_discord_banner_for_myself_3/) for the banner!
 
 <img src="https://img.shields.io/badge/Twitter-@nec02k-14c8f9?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nec02k" height=20></img>
 <img src="https://img.shields.io/badge/Reddit-Skytigers456-14c8f9?style=for-the-badge&logo=reddit&logoColor=white)](https://twitter.com/nec02k" height=20></img>
