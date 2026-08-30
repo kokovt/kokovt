@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./assets/ame banner.gif" alt="Ame header" height="300px"><br/>
-<img src="https://www.gravatar.com/avatar/99a35110230044ee5eac0882a6fe3bea?s=200" alt="Shiro" style="border-radius:50%"/>
+<img src="https://www.gravatar.com/avatar/ac04f0a6aeaa176affd6e02f4887d88e?s=200" alt="Shiro" style="border-radius:50%"/>
 
 ### Shiro/Onyx
 
